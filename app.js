@@ -8,8 +8,8 @@ console.log('%s listening to %s', server.name, server.url);
 });
 // Create chat connector for communicating with the Bot Framework Service
 var connector = new builder.ChatConnector({
-appId: "81654ae1-93ff-495c-a96f-23c6b9d6a534",
-appPassword:"ffLET90=$ihxcpUOZO417$!"
+appId: process.env.MICROSOFT_APP_ID,//"81654ae1-93ff-495c-a96f-23c6b9d6a534"
+appPassword: process.env.MICROSOFT_APP_PASSWORD//"ffLET90=$ihxcpUOZO417$!"
 });
 // Listen for messages from users
 var bot = new builder.UniversalBot(connector);
