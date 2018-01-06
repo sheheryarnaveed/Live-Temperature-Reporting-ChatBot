@@ -68,9 +68,3 @@ intents.matches('GetWeather', function (session, args) {
     session.endDialog("I am sorry I don't understand. You are trying to access something I am not capable of doing so. I can only find \"temperatures\" of cities. Sorry once again!");
 });
 
-//page id:  311218152705861
-//app id: 2039973926272027
-//app secret: 4e85a7ad8791d8a22c8b72e7607d7b0b
-//page access token: EAAcZCWHE5ZCBsBAFNf5r5xj0MsD9uGMZA4ijakRKBFzuZBeAjmrjlSvlPYniiqorIgWBoR1dDD9hpR6bLy9zDcoAqzoEmtC1ifJt4VVowZCMfV1oCWp1zc9wJEempVp1ROpXSKAvOtoEG5CvGWOrdYun1JaPWBRmRsdjvqzKoXUA3PZAKvZAzKX
-//microsoft app id:  81654ae1-93ff-495c-a96f-23c6b9d6a534
-//new pass:ffLET90=$ihxcpUOZO417$!
