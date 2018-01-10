@@ -4,4 +4,4 @@
 
 The temperature values get updated within few minutes.
 
-![IMG_20180110_142737.png]({{site.baseurl}}/IMG_20180110_142737.png)
+![alt text](https://github.com/sheheryarnaveed/Live-Temperature-Reporting-ChatBot/blob/master/IMG_20180110_142737.png)
