@@ -1,6 +1,6 @@
 # **Taco**
 **Functionality:** This is a bot that provides live temperature of cities worldwide.
-![]({{site.baseurl}}/IMG_20180110_142712.png)
+![alt text](Live-Temperature-Reporting-ChatBot/IMG_20180110_142712.png)
 
 The temperature values get updated within few minutes.
 
